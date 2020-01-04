@@ -14,6 +14,6 @@ python net.py [pid]
 cpu.py gather cpu for os [or for some process (TODO)].
 
 ```
-python cpu.py
+python cpu.py [pid]
 
 ```
