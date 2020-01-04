@@ -7,5 +7,4 @@ net.py gather recvbandwidth and sendbandwidth in net_interface for os or for som
 
 ```
 python net.py [pid]
-
 ```
